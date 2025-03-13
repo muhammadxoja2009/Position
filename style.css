@@ -1,0 +1,155 @@
+.bir .tepa{
+width: 200px;
+height: 200px;
+background-color: red;
+color: white;
+position: relative;
+left:100px;
+top: 90px;
+display: flex;
+align-items: center;
+justify-content: center;
+text-shadow :10px 10px 10px white;
+}
+.bir .pas{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ikki .pas{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 80px;
+}
+.ikki .tepa{
+    width: 300px;
+    height: 200px;
+    border-radius: 300px;
+    background-color: red;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-shadow :10px 10px 10px white;
+    position: relative;
+    top: 90px;   
+    left: 20px; 
+    
+}
+.uch .tepa{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: white;
+    position: relative;
+    right: 100px;
+    top: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-shadow :10px 10px 10px white;
+    }
+    .uch .pas{
+        width: 200px;
+        height: 200px;
+        background-color: green;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .container{
+        display: flex;
+        justify-content: space-around;
+        gap: 100px
+        ;
+    }
+    .h11{
+        display: flex;
+        justify-content: center;
+        background-color: white;
+        box-shadow :10px 10px 10px white;
+        width: 200px;
+        margin-left: 610px;
+        border-radius: 30px;
+    }
+    .body{
+        background-image: url(./Rectangle\ 2.png);
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+    .body2{
+        background-color: black;
+    }
+
+    header{
+        background-color: black;
+        display: flex;
+        align-items: center;
+
+    }
+    header div{
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+    }
+    header a{
+        text-decoration: none;
+        color: white;
+    }
+    body{
+        background-color: black;
+    }
+    .bh1{
+        background-color: white;
+        text-align: center;
+        width: 300px;
+        margin-left: 520px;
+        border-radius: 30px;
+        box-shadow :10px 10px 10px white;
+    }
+    .box div{
+        
+        width: 300px;
+        height: 300px;
+        background-color: #7B2525;
+
+    }
+    .box div img{
+        width: 300px;height: 150px;
+        margin-top: 50px;
+    }
+    .m{
+        color: white;
+    }
+    .box div p{
+        color: white;
+    }
+    .box{
+        display: flex;
+        justify-content: space-around;
+    }
+    footer div {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 600px;
+        margin-left: 600px;
+    }
+    footer{
+        display: flex;
+    }
+    footer a{
+        text-decoration: none;
+        color: white;
+        text-shadow :10px 10px 10px white;
+    }
